@@ -24,6 +24,9 @@ Causal Weighting Workflow
 The following are the major open source packages utilised in this project:
 
 * gensim
+* DoWhy
+* Econml
+* Causalml
 * PyTorch Geometric
 
 <h2 id="folder-structure"> Folder Structure</h2>
@@ -38,7 +41,7 @@ The following are the major open source packages utilised in this project:
       │    ├── 3_causal_without_memory.ipynb
       │    └── README.md  
       │
-      ├── synthetic data
+      ├── synthetic
       └── README.md
 
 ## 🎯 RoadMap
