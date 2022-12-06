@@ -1,9 +1,9 @@
 ## Uplift Modelling for Dataset with 5 Confounders
-### Results:
+### Results
 `./train_result_x5.csv` is the training result and the comparison with baseline performance
 
 `./valid_result_x5.csv` is the validation result and the comparison with baseline performance
-### Notes:
+### Notes
 Please navigate to the [notebook folder](../../../notebooks) to obtain the necessary notebooks: `0_ate_weighting.ipynb`, `1_feature_correlations_BNEstimator.ipynb` and `2_node_embeddings.ipynb`
 
 ### 🎯 RoadMap
