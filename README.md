@@ -2,8 +2,10 @@
 This is the code implementation for the paper Uplift Modeling based on Graph Neural Network Combined with Causal Weighting
 
 
-<!-- ABOUT THE PROJECT -->
-<h2 id="about-the-project"> :pencil: About The Project</h2>
+<!-- ABOUT THE PAPER -->
+<h2 id="about-the-paper"> :pen: About The Paper</h2>
+Causal machine learning instead of A/B testing
+
 
 GNN Uplift Modeling Workflow  
 
