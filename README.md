@@ -57,7 +57,9 @@ The following are the major open source packages utilised in this project:
 Follow [notebooks](./notebooks) in Google Colab 
 
 ## Future Work
-Experiments on more benchmark dataset
+Experiments on more benchmark datasets
+
+Scalablility of this causal knowledge-enabled GNNs
 
 ## Contributing
 If you have any questions or suggestions towards this repository, feel free to contact me at xy2119@ic.ac.uk.
