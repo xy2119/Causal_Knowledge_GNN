@@ -1,4 +1,4 @@
-These are the data, notebooks and results for experiments on generated datasets with 5 confounders / 9 confounders / 20 confounders.
+## Here contains Data, Notebooks and Results for the Synthetic Experiments on Datasets of 5 / 9 / 20 Confounders
 
 ## Synthetic Experiments
 
