@@ -4,7 +4,7 @@ This is the code implementation for the paper Uplift Modeling based on Graph Neu
 
 <!-- ABOUT THE PAPER -->
 <h2 id="about-the-paper"> :pen: About The Paper</h2>
-Causal machine learning instead of A/B testing
+Graph Neural Network with Causal Inference
 
 
 GNN Uplift Modeling Workflow  
