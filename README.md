@@ -35,7 +35,7 @@ The following are the major open source packages utilised in this project:
 
 <h2 id="folder-structure"> Folder Structure</h2>
 
-    code
+
       .  
       ├── notebooks                                                       
       │    ├── 0_ate_weighting.ipynb                  
@@ -45,9 +45,19 @@ The following are the major open source packages utilised in this project:
       │    ├── 3_causal_without_memory.ipynb
       │    └── README.md  
       │
-      ├── synthetic                      # synthetic experiments
+      ├── synthetic                       # synthetic experiments
       │    ├── synthetic_data
+      │    │    ├── data.csv              # synthetic dataset with 5 confounders
+      │    │    ├── data_10000_9.csv      # synthetic dataset with 9 confounders
+      │    │    ├── data_10000_20.csv     # synthetic dataset with 20 confounders
+      │    │    └── README.md 
+      │    │
       │    ├── synthetic_results
+      │    │      ├── data_10000_x5       # folder containing detailed uplift modelling for synthetic dataset with 5 confounders
+      │    │      ├── data_10000_x9       # folder containing detailed uplift modelling for synthetic dataset with 9 confounders
+      │    │      ├── data_10000_x20      # folder containing detailed uplift modelling for synthetic dataset with 20 confounders
+      │    │      └── README.md 
+      │    │      
       │    └── README.md
       │
       │
