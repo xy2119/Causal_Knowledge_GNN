@@ -4,6 +4,7 @@ This is the code implementation for the paper Uplift Modeling based on Graph Neu
 
 <!-- ABOUT THE PAPER -->
 <h2 id="about-the-paper"> :pen: About The Paper</h2>
+Uplift Modelling is a bridge between Causal Inference, Machine Learning and Personalization.
 Graph Neural Network with Causal Inference
 
 
