@@ -4,9 +4,17 @@ This is the code implementation for the paper Uplift Modeling based on Graph Neu
 
 <!-- ABOUT THE PAPER -->
 <h2 id="about-the-paper"> :pen: About The Paper</h2>
-Uplift Modelling is a bridge between Causal Inference, Machine Learning and Personalization.
-Graph Neural Network with Causal Inference
 
+**A bridge between Causal Inference, Machine Learning and Personalization---Uplift Modelling**
+
+Uplift modeling is a statistical technique used to determine the effect of a treatment (marketing campaign/offer/discount) on a particular outcome of interest. It is commonly used in marketing and customer relationship management to identify the specific customers or groups of customers who are most likely to respond positively to a given treatment or intervention.
+
+
+Uplift modeling involves building a statistical model that predicts the difference in the outcome of interest between the treatment and control groups. The model is trained on data from a controlled experiment or observational study, in which a treatment group is exposed to the treatment and a control group is not. The classic machine learning propensity models predict the target variable (Y) given input variables (X). While the uplift model explains the impact of treatment(marketing campaign/offer/discount) on target variable (Y) given input features (X).
+
+**Potential Outcome Framework and Causal Effect**
+
+In the potential outcome framework, the causal effect of a treatment can be estimated by comparing the observed outcomes in the treatment group to the observed outcomes in the control group. **Noted that this estimate is only valid if the treatment has been randomly assigned, and if the control group is representative of what the outcome would have been in the treatment group in the absence of the treatment**. This is known as the **"counterfactual"** or **"potential outcome"** for the treatment group.
 
 GNN Uplift Modeling Workflow  
 
@@ -30,7 +38,7 @@ The following are the major open source packages utilised in this project:
 * DoWhy
 * Gensim
 * EconML
-* CausalMML
+* CausalML
 * PyTorch Geometric
 
 <h2 id="folder-structure"> Folder Structure</h2>
